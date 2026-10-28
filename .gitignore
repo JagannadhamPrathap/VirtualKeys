@@ -1,0 +1,8 @@
+AIKeyboard/
+│
+├── src/
+│   └── main.py
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
